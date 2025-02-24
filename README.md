@@ -9,3 +9,6 @@ Création d’un tableau de bord interactif pour analyser la performance commerc
 - Identifier les tendances clés, telles que les variations des ventes et l’atteinte des objectifs (mensuels et annuels).
 
 ⚙️**Outil principal** : Power BI
+
+✅ **Lien vers le Dashboard**: 
+
