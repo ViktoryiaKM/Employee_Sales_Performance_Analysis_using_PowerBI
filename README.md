@@ -10,7 +10,7 @@ Création d’un tableau de bord interactif pour analyser la performance commerc
 
 ⚙️**Outil principal** : Power BI
 
-**Résultat **: un outil visuel et stratégique pour améliorer le suivi des équipes commerciales.
+**Résultat**: un outil visuel et stratégique pour améliorer le suivi des équipes commerciales.
 
 ✅ **Lien vers le Dashboard**:  
 [Performance_Commerciale_des_Employes_gif.gif](Performance_Commerciale_des_Employes_gif.gif)
