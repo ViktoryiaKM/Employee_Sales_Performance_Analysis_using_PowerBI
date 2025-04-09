@@ -1,4 +1,4 @@
-# Suivi de Performance Commerciale des Employés - Tableau de Bord interactif Power BI
+# Suivi de la performance commerciale individuelle des employés
 *Réalisé dans le cadre de ma formation avec DataCoach Academy - Plateforme de formation en ligne*
 
 **Mission** :
