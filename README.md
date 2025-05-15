@@ -12,5 +12,9 @@ Création d’un tableau de bord interactif pour analyser la performance commerc
 
 **🎯 Résultat**: un outil visuel et stratégique pour améliorer le suivi des équipes commerciales.
 
+### 📎Le fichier Power BI .pbix  est **disponible sur demande**.  
+Merci de me contacter via [LinkedIn](https://www.linkedin.com/in/viktoryia-meurville-b94565308/)
+
+### 📸 Aperçu:
 ✅ **Lien vers le Dashboard**:  
 [Performance_Commerciale_des_Employes_gif.gif](Performance_Commerciale_des_Employes_gif.gif)
